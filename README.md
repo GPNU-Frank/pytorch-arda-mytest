@@ -16,6 +16,7 @@
 		绿色： classfier loss
 		
 ![train.py](https://raw.githubusercontent.com/GPNU-Frank/pytorch-arda-mytest/master/snapshots/Figure_2.png)
+
 	train_v1.py :
 		红色： generator_src loss
 		蓝色： discriminator loss
