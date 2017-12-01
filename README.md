@@ -14,12 +14,23 @@
 		红色： generator loss
 		蓝色： discriminator loss
 		绿色： classfier loss
-		
+		=== Evaluating models ===
+		>>> on source domain <<<
+		Avg Loss = 0.06447, Avg Accuracy = 98.18833%
+		>>> on target domain <<<
+		Avg Loss = 0.43089, Avg Accuracy = 89.43264%
+
 ![train.py](https://raw.githubusercontent.com/GPNU-Frank/pytorch-arda-mytest/master/snapshots/Figure_2.png)
 
 	train_v1.py :
 		红色： generator_src loss
 		蓝色： discriminator loss
 		绿色： classfier loss
-
+		=== Evaluating models ===
+		>>> on source domain <<<
+		Avg Loss = 0.03399, Avg Accuracy = 99.19833%
+		>>> on target domain <<<
+		Avg Loss = 9.57380, Avg Accuracy = 8.56413%
 ![train_v1.py](https://raw.githubusercontent.com/GPNU-Frank/pytorch-arda-mytest/master/snapshots/Figure_2_V1.png)
+
+
